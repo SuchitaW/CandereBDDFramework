@@ -1,0 +1,6 @@
+2023-Jul-03 12:16:49 pm [main] INFO  core.WebDriverFactory - Chrome browser invoked
+2023-Jul-03 12:16:50 pm [main] INFO  core.WebDriverFactory - browser window maximized and set timeout is 20 second
+2023-Jul-03 12:18:17 pm [main] INFO  core.WebDriverFactory - navigate to url
+2023-Jul-03 12:18:18 pm [main] INFO  PageObjects.HomePageObjects - Sent the keys to search box as -> ring
+2023-Jul-03 12:18:18 pm [main] INFO  PageObjects.HomePageObjects - Clicked on search button
+2023-Jul-03 12:18:59 pm [main] INFO  core.WebDriverFactory - Quit the browser
